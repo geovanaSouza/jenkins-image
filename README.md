@@ -1,1 +1,1 @@
-# jenkins-image with Docker
+# jenkins with Docker
