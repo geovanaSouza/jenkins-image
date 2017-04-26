@@ -1,6 +1,5 @@
-FROM jenkins:2.32.3
+FROM jenkins:2.46.1
 
-ENV DOCKER_VERSION 1.12.6
 ENV PATH $PATH:$JENKINS_HOME/workspace/scripts-ci
 
 USER root
